@@ -36,11 +36,9 @@ https://imgur.com/a/CvimPhC
 
 In den Keybinding-Optionen unter Sonstige (Other im englishen Client) könnt IHr für jedes Ziel eine Tastenbelegung vergeben.
 
-Primary Recipient   -> Erstes Ziel
-
-Secondary Recipient -> Zweites Ziel
-
-Tertiary Recipient  -> Drittes Ziel
+- Primary Recipient   -> Erstes Ziel
+- Secondary Recipient -> Zweites Ziel
+- Tertiary Recipient  -> Drittes Ziel
 
 ## Was kann evl_Tricks nicht?
 evl_Tricks kann keine Echtzeit-Anpassung von Makros vornehmen.
