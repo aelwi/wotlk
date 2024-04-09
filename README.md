@@ -2,7 +2,7 @@
 ## Was kann evl_Tricks?
 
 evl_Tricks wurde ursprünglich rein für Schurken geschrieben, um die Handhabung von Tricks of the Trade Makros zu vereinfachen.
-Um nicht in jedem Raid ein Tricks Makro auf einen neuen (off-) Tank umschreiben zu müssen, erlaubt Euch evl_Tricks per Knopfdruck ein Tricks-Makro auf Euer derzeitiges Ziel umzuschreiben.
+Um nicht in jedem Raid ein Tricks Makro auf einen neuen (off-) Tank umschreiben zu müssen, erlaubt Euch evl_Tricks per Knopfdruck ein Makro auf Euer derzeitiges Ziel umzuschreiben.
 
 Das erspart lästiges Eintragen von Namen, besonders wenn Sonderzeichen enthalten sind (á la "ßµêæ").
 
