@@ -8,25 +8,7 @@ Das erspart lästiges Eintragen von Namen, besonders wenn Sonderzeichen enthalte
 
 Das originale AddOn findet man hier: https://github.com/evl/Tricks
 
-## Wie funktioniert evl_Tricks?
-
-evl_Tricks erzeugt in Euren allgemeinen Makros ein neues Makro namens "evl_Tricks".
-Ihr habt die Möglichkeit, bis zu 3 Ziele als Empfänger einzutragen, diese werden der Reihenfolge nach abgearbeitet.
-
-Existiert das erste Ziel nicht mehr (Offline, nicht mehr im Raid, ...) wird das zweite Ziel priorisiert, existiert dies auch nicht mehr, wird das dritte und letzte Ziel genommen.
-
-Euer derzeitiges Ziel mit Namen seht Ihr über Eurem derzeitigen Chatfenster: https://imgur.com/a/1HIZM9S
-
-## Wie lege ich Ziele fest?
-https://imgur.com/a/CbimPhC
-
-In den Keybinding-Optionen unter Sonstige (Other im englishen Client) könnt IHr für jedes Ziel eine Tastenbelegung vergeben.
-
-Primary Recipient   -> Erstes Ziel
-Secondary Recipient -> Zweites Ziel
-Tertiary Recipient  -> Drittes Ziel
-
-Je nach dem mit wwelcher Klasse Ihr evl_Tricks benutzt, werden unterschiedliche Spells als Grundlage genommen.
+Je nach dem mit welcher Klasse Ihr evl_Tricks benutzt, werden unterschiedliche Spells als Grundlage genommen.
 
 Diese sind (Klasse, SpellID, Name):
 
@@ -39,6 +21,24 @@ Diese sind (Klasse, SpellID, Name):
 - SHAMAN		  =   974, -- Earth Shield
 - PRIEST		  = 10060, -- Power Infusion
 - WARRIOR		  = 50720, -- Vigilance
+
+## Wie funktioniert evl_Tricks?
+
+evl_Tricks erzeugt in Euren allgemeinen Makros ein neues Makro namens "evl_Tricks".
+Ihr habt die Möglichkeit, bis zu 3 Ziele als Empfänger einzutragen, diese werden der Reihenfolge nach abgearbeitet.
+
+Existiert das erste Ziel nicht mehr (Offline, nicht mehr im Raid, ...) wird das zweite Ziel priorisiert, existiert dies auch nicht mehr, wird das dritte und letzte Ziel genommen.
+
+Euer derzeitiges Ziel mit Namen seht Ihr über Eurem derzeitigen Chatfenster: https://imgur.com/a/1HIZM9S
+
+## Wie lege ich Ziele fest?
+https://imgur.com/a/CvimPhC
+
+In den Keybinding-Optionen unter Sonstige (Other im englishen Client) könnt IHr für jedes Ziel eine Tastenbelegung vergeben.
+
+Primary Recipient   -> Erstes Ziel
+Secondary Recipient -> Zweites Ziel
+Tertiary Recipient  -> Drittes Ziel
 
 ## Was kann evl_Tricks nicht?
 evl_Tricks kann keine Echtzeit-Anpassung von Makros vornehmen.
