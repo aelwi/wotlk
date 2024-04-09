@@ -32,7 +32,7 @@ Euer derzeitiges Ziel mit Namen seht Ihr über Eurem derzeitigen Chatfenster: ht
 ## Wie lege ich Ziele fest?
 https://imgur.com/a/CvimPhC
 
-In den Keybinding-Optionen unter Sonstige (Other im englishen Client) könnt IHr für jedes Ziel eine Tastenbelegung vergeben.
+In den Keybinding-Optionen unter Sonstige (Other im englishen Client) könnt Ihr für jedes Ziel eine Tastenbelegung vergeben.
 
 - Primary Recipient   -> Erstes Ziel
 - Secondary Recipient -> Zweites Ziel
