@@ -6,8 +6,6 @@ Um nicht in jedem Raid ein Tricks Makro auf einen neuen (off-) Tank umschreiben 
 
 Das erspart lästiges Eintragen von Namen, besonders wenn Sonderzeichen enthalten sind (á la "ßµêæ").
 
-Das originale AddOn findet man hier: https://github.com/evl/Tricks
-
 Je nach dem mit welcher Klasse Ihr evl_Tricks benutzt, werden unterschiedliche Spells als Grundlage genommen.
 
 Diese sind (Klasse, SpellID, Name):
